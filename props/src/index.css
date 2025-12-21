@@ -1,0 +1,6 @@
+.parent{
+    display: flex;
+}
+html body{
+    background:#222;
+}

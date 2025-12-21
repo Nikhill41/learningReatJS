@@ -1,0 +1,19 @@
+ .Card{
+    width:300px ;
+    border: 2px solid white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    background:#444 ;
+    margin: 20px;
+    color: white;
+ }
+ .Card img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+ }
+ .Card button{
+    border-radius: 2px;
+ }
