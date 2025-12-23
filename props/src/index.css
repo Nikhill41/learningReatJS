@@ -1,5 +1,6 @@
 .parent{
     display: flex;
+    flex-wrap: wrap;
 }
 html body{
     background:#222;
